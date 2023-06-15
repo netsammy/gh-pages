@@ -62,9 +62,17 @@
 			"Country": "IND",
 			"URL": "https://www.youtube.com/watch?v=FE05kObCpaY",
 			"Image": "https://img.youtube.com/vi/FE05kObCpaY/mqdefault.jpg"
-		}
+		},
 
-			
+		{
+			"Category": "News",
+			"Name": "BiparJoy Alert",
+			"Country": "IND",
+			"URL": "https://www.youtube.com/watch?v=qlNiwqORZ8U",
+			"Image": "https://img.youtube.com/vi/qlNiwqORZ8U/mqdefault.jpg"
+		}
+		
+
 
 
 	]
