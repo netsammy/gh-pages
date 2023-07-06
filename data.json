@@ -56,21 +56,7 @@
 			"Image": "https://img.youtube.com/vi/OkrPN0ZAhkw/mqdefault.jpg"
 		},
 
-		{
-			"Category": "News",
-			"Name": "BiparJoy Alert News",
-			"Country": "UIND",
-			"URL": "https://www.youtube.com/watch?v=FE05kObCpaY",
-			"Image": "https://img.youtube.com/vi/FE05kObCpaY/mqdefault.jpg"
-		},
-
-		{
-			"Category": "News",
-			"Name": "BiparJoy Alert",
-			"Country": "UIND",
-			"URL": "https://www.youtube.com/watch?v=qlNiwqORZ8U",
-			"Image": "https://img.youtube.com/vi/qlNiwqORZ8U/mqdefault.jpg"
-		},
+		
 		{
 			"Category": "News",
 			"Name": "Bol News",
@@ -98,15 +84,7 @@
 			"Country": "US",
 			"URL": "https://www.youtube.com/watch?v=lmZRiDMK3OU",
 			"Image": "https://img.youtube.com/vi/lmZRiDMK3OU/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "GNN Live",
-			"Country": "PK",
-			"URL": "https://www.youtube.com/watch?v=-KhRxbcL6S4",
-			"Image": "https://img.youtube.com/vi/-KhRxbcL6S4/mqdefault.jpg"
 		}
-
 
 
 
