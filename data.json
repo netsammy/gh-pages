@@ -84,8 +84,56 @@
 			"Country": "US",
 			"URL": "https://www.youtube.com/watch?v=lmZRiDMK3OU",
 			"Image": "https://img.youtube.com/vi/lmZRiDMK3OU/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "GB News",
+			"Country": "UK",
+			"URL": "https://www.youtube.com/watch?v=8WX6YL9JnLw",
+			"Image": "https://img.youtube.com/vi/8WX6YL9JnLw/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "Dawn News",
+			"Country": "UK",
+			"URL": "https://www.youtube.com/watch?v=ELFHr8huC2o",
+			"Image": "https://img.youtube.com/vi/ELFHr8huC2o/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "Fox News",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=MVYo64gYV70",
+			"Image": "https://img.youtube.com/vi/MVYo64gYV70/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "India Today",
+			"Country": "IN",
+			"URL": "https://www.youtube.com/watch?v=Z8x8AepMhYw",
+			"Image": "https://img.youtube.com/vi/Z8x8AepMhYw/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "CNA 24/7 LIVE",
+			"Country": "CN",
+			"URL": "https://www.youtube.com/watch?v=XWq5kBlakcQ",
+			"Image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "Sky News",
+			"Country": "CN",
+			"URL": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
+			"Image": "https://img.youtube.com/vi/9Auq9mYxFEE/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "Nat Geo Wild",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=6zGV59Ldp3s",
+			"Image": "https://img.youtube.com/vi/6zGV59Ldp3s/mqdefault.jpg"
 		}
-
 
 
 	]
