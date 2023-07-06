@@ -13,8 +13,8 @@
 			"Category": "News",
 			"Name": "Samaa TV",
 			"Country": "PK",
-			"URL": "https://www.youtube.com/watch?v=q0TTqU1K7-s&pp=ygUSbGl2ZSBuZXdzIHBha2lzdGFu&mode=theatre",
-			"Image": "https://img.youtube.com/vi/q0TTqU1K7-s/mqdefault.jpg"
+			"URL": "https://www.youtube.com/watch?v=yHi3yIkPcLE",
+			"Image": "https://img.youtube.com/vi/yHi3yIkPcLE/mqdefault.jpg"
 		},
 
 		{
@@ -70,8 +70,43 @@
 			"Country": "IND",
 			"URL": "https://www.youtube.com/watch?v=qlNiwqORZ8U",
 			"Image": "https://img.youtube.com/vi/qlNiwqORZ8U/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "Bol News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=1CALQQ0GsSk",
+			"Image": "https://img.youtube.com/vi/1CALQQ0GsSk/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "NBC News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=dNk4WtqIlik",
+			"Image": "https://img.youtube.com/vi/dNk4WtqIlik/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "HUM NEWS",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=yBTnEiKy63o",
+			"Image": "https://img.youtube.com/vi/yBTnEiKy63o/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "WION LIVE",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=lmZRiDMK3OU",
+			"Image": "https://img.youtube.com/vi/lmZRiDMK3OU/mqdefault.jpg"
+		},
+		{
+			"Category": "News",
+			"Name": "GNN Live",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=KhRxbcL6S4",
+			"Image": "https://img.youtube.com/vi/KhRxbcL6S4/mqdefault.jpg"
 		}
-		
+
 
 
 
