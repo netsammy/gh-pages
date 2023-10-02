@@ -1,0 +1,94 @@
+{
+	"Menu": [
+		{
+			"Category": "News",
+			"Name": "ARY News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=sUKwTVAc0Vo&pp=ygUSbGl2ZSBuZXdzIHBha2lzdGFu&mode=theatre",
+			"Image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
+			"videoId": "sUKwTVAc0Vo"
+		},
+		{
+			"Category": "News",
+			"Name": "Samaa TV",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=yHi3yIkPcLE",
+			"Image": "https://img.youtube.com/vi/yHi3yIkPcLE/mqdefault.jpg",
+			"videoId": "yHi3yIkPcLE"
+		},
+		{
+			"Category": "News",
+			"Name": "Dunya News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=yYR3GAC9g50&mode=theatre",
+			"Image": "https://img.youtube.com/vi/yYR3GAC9g50/mqdefault.jpg",
+			"videoId": "yYR3GAC9g50"
+		},
+		{
+			"Category": "News",
+			"Name": "Geo News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=O3DPVlynUM0&mode=theatre",
+			"Image": "https://img.youtube.com/vi/O3DPVlynUM0/mqdefault.jpg",
+			"videoId": "O3DPVlynUM0"
+		},
+		{
+			"Category": "News",
+			"Name": "ABC News Live",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=Xx6ItTZbd_s",
+			"Image": "https://img.youtube.com/vi/Xx6ItTZbd_s/mqdefault.jpg",
+			"videoId": "Xx6ItTZbd_s"
+		},
+		{
+			"Category": "News",
+			"Name": "Al Jazeera English",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+			"Image": "https://img.youtube.com/vi/gCNeDWCI0vo/mqdefault.jpg",
+			"videoId": "gCNeDWCI0vo"
+		},
+		{
+			"Category": "News",
+			"Name": "TYT News",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=OkrPN0ZAhkw",
+			"Image": "https://img.youtube.com/vi/OkrPN0ZAhkw/mqdefault.jpg",
+			"videoId": "OkrPN0ZAhkw"
+		},
+		{
+			"Category": "News",
+			"Name": "Bol News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=Fj5IgiKr9bk",
+			"Image": "https://img.youtube.com/vi/Fj5IgiKr9bk/mqdefault.jpg",
+			"videoId": "Fj5IgiKr9bk"
+		},
+		{
+			"Category": "News",
+			"Name": "NBC News",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=dNk4WtqIlik",
+			"Image": "https://img.youtube.com/vi/dNk4WtqIlik/mqdefault.jpg",
+			"videoId": "dNk4WtqIlik"
+		},
+		{
+			"Category": "News",
+			"Name": "HUM NEWS",
+			"Country": "PK",
+			"URL": "https://www.youtube.com/watch?v=yBTnEiKy63o",
+			"Image": "https://img.youtube.com/vi/yBTnEiKy63o/mqdefault.jpg",
+			"videoId": "yBTnEiKy63o"
+		},
+		{
+			"Category": "News",
+			"Name": "WION LIVE",
+			"Country": "US",
+			"URL": "https://www.youtube.com/watch?v=lmZRiDMK3OU",
+			"Image": "https://img.youtube.com/vi/lmZRiDMK3OU/mqdefault.jpg",
+			"videoId": "lmZRiDMK3OU"
+		}
+
+
+]
+}
