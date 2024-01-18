@@ -9,13 +9,7 @@
 			"URL": "https://www.youtube.com/watch?v=sUKwTVAc0Vo&pp=ygUSbGl2ZSBuZXdzIHBha2lzdGFu&mode=theatre",
 			"Image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg"
 		},
-		{
-			"Category": "News",
-			"Name": "Samaa TV",
-			"Country": "PK",
-			"URL": "https://www.youtube.com/watch?v=yHi3yIkPcLE",
-			"Image": "https://img.youtube.com/vi/yHi3yIkPcLE/mqdefault.jpg"
-		},
+		
 
 		{
 			"Category": "News",
@@ -55,36 +49,9 @@
 			"URL": "https://www.youtube.com/watch?v=OkrPN0ZAhkw",
 			"Image": "https://img.youtube.com/vi/OkrPN0ZAhkw/mqdefault.jpg"
 		},
-
-
-		{
-			"Category": "News",
-			"Name": "Bol News",
-			"Country": "PK",
-			"URL": "https://www.youtube.com/watch?v=Fj5IgiKr9bk",
-			"Image": "https://img.youtube.com/vi/Fj5IgiKr9bk/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "NBC News",
-			"Country": "PK",
-			"URL": "https://www.youtube.com/watch?v=dNk4WtqIlik",
-			"Image": "https://img.youtube.com/vi/dNk4WtqIlik/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "HUM NEWS",
-			"Country": "PK",
-			"URL": "https://www.youtube.com/watch?v=yBTnEiKy63o",
-			"Image": "https://img.youtube.com/vi/yBTnEiKy63o/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "WION LIVE",
-			"Country": "US",
-			"URL": "https://www.youtube.com/watch?v=lmZRiDMK3OU",
-			"Image": "https://img.youtube.com/vi/lmZRiDMK3OU/mqdefault.jpg"
-		},
+		
+			
+		
 		{
 			"Category": "News",
 			"Name": "GB News",
@@ -92,48 +59,105 @@
 			"URL": "https://www.youtube.com/watch?v=8WX6YL9JnLw",
 			"Image": "https://img.youtube.com/vi/8WX6YL9JnLw/mqdefault.jpg"
 		},
-		{
-			"Category": "News",
-			"Name": "Dawn News",
-			"Country": "UK",
-			"URL": "https://www.youtube.com/watch?v=ELFHr8huC2o",
-			"Image": "https://img.youtube.com/vi/ELFHr8huC2o/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "Fox News",
-			"Country": "US",
-			"URL": "https://www.youtube.com/watch?v=qoytj8mNq7s",
-			"Image": "https://img.youtube.com/vi/qoytj8mNq7s/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "India Today",
-			"Country": "IN",
-			"URL": "https://www.youtube.com/watch?v=Z8x8AepMhYw",
-			"Image": "https://img.youtube.com/vi/Z8x8AepMhYw/mqdefault.jpg"
-		},
+				
 		{
 			"Category": "News",
 			"Name": "CNA 24/7 LIVE",
 			"Country": "CN",
 			"URL": "https://www.youtube.com/watch?v=XWq5kBlakcQ",
 			"Image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
-		},
+		},		
 		{
-			"Category": "News",
-			"Name": "Sky News",
-			"Country": "CN",
-			"URL": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
-			"Image": "https://img.youtube.com/vi/9Auq9mYxFEE/mqdefault.jpg"
-		},
-		{
-			"Category": "News",
-			"Name": "Nat Geo Wild",
-			"Country": "US",
-			"URL": "https://www.youtube.com/watch?v=6zGV59Ldp3s",
-			"Image": "https://img.youtube.com/vi/6zGV59Ldp3s/mqdefault.jpg"
-		}
+      "Category": "News",
+      "Name": "AMAA News Live",
+      "Country": "Unknown",
+      "URL": "https://www.youtube.com/watch?v=N14lJkjmT58",
+      "Image": "https://img.youtube.com/vi/N14lJkjmT58/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "Dunya News",
+      "Country": "Unknown",
+      "URL": "https://www.youtube.com/watch?v=ZJe7ESh6egU",
+      "Image": "https://img.youtube.com/vi/ZJe7ESh6egU/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "Bol News Live",
+      "Country": "PK",
+      "URL": "https://www.youtube.com/watch?v=ygXIhGil8a8",
+      "Image": "https://img.youtube.com/vi/ygXIhGil8a8/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "Aaj News Live",
+      "Country": "PK",
+      "URL": "https://www.youtube.com/watch?v=Ixuim7M5npg",
+      "Image": "https://img.youtube.com/vi/Ixuim7M5npg/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "NBC News",
+      "Country": "US",
+      "URL": "https://www.youtube.com/watch?v=eAunnu5bDvA",
+      "Image": "https://img.youtube.com/vi/eAunnu5bDvA/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "India Today",
+      "Country": "IN",
+      "URL": "https://www.youtube.com/watch?v=lY7bIITaw98",
+      "Image": "https://img.youtube.com/vi/lY7bIITaw98/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "24 News HD",
+      "Country": "PK",
+      "URL": "https://www.youtube.com/watch?v=t8CU3YFcP6M",
+      "Image": "https://img.youtube.com/vi/t8CU3YFcP6M/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "Zee News Live",
+      "Country": "IN",
+      "URL": "https://www.youtube.com/watch?v=rekNqYolSyw",
+      "Image": "https://img.youtube.com/vi/rekNqYolSyw/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "GNN News Live",
+      "Country": "PK",
+      "URL": "https://www.youtube.com/watch?v=F_iQ6lPc1gM",
+      "Image": "https://img.youtube.com/vi/F_iQ6lPc1gM/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "WION News Live",
+      "Country": "Unknown",
+      "URL": "https://www.youtube.com/watch?v=gadjsB5BkK4",
+      "Image": "https://img.youtube.com/vi/gadjsB5BkK4/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "LiveNOW Fox Live",
+      "Country": "US",
+      "URL": "https://www.youtube.com/watch?v=YDfiTGGPYCk",
+      "Image": "https://img.youtube.com/vi/YDfiTGGPYCk/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "Sky News Live",
+      "Country": "UK",
+      "URL": "https://www.youtube.com/watch?v=w9uJg68CV4g",
+      "Image": "https://img.youtube.com/vi/w9uJg68CV4g/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "BBC News Hindi",
+      "Country": "IN",
+      "URL": "https://www.youtube.com/watch?v=msfjybjjFx4",
+      "Image": "https://img.youtube.com/vi/msfjybjjFx4/mqdefault.jpg"
+    }
 
 
 	]
