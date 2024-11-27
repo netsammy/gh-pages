@@ -1,0 +1,44 @@
+{
+"joke_categories": [
+{
+"name": "Animal Jokes",
+"image": "https://example.com/animal-jokes.jpg"
+},
+{
+"name": "Knock-Knock Jokes",
+"image": "https://example.com/knock-knock-jokes.jpg"
+},
+{
+"name": "Puns",
+"image": "https://example.com/puns.jpg"
+},
+{
+"name": "Blonde Jokes",
+"image": "https://example.com/blonde-jokes.jpg"
+},
+{
+"name": "Clean Jokes",
+"image": "https://example.com/clean-jokes.jpg"
+},
+{
+"name": "Chuck Norris Jokes",
+"image": "https://example.com/chuck-norris-jokes.jpg"
+},
+{
+"name": "Dad Jokes",
+"image": "https://example.com/dad-jokes.jpg"
+},
+{
+"name": "Dark Humor",
+"image": "https://example.com/dark-humor.jpg"
+},
+{
+"name": "One-Liners",
+"image": "https://example.com/one-liners.jpg"
+},
+{
+"name": "Observational Jokes",
+"image": "https://example.com/observational-jokes.jpg"
+}
+]
+}
