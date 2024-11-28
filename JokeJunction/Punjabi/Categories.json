@@ -1,0 +1,32 @@
+{
+"joke_categories": [
+{
+"name": "Mazahiya Lateefay (مزاحیہ لطیفے پنجابی)",
+"image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg"
+},
+{
+"name": "Sardar Jokes (سردار لطیفے پنجابی)",
+"image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
+},
+{
+"name": "Doctor-Patient Jokes (ڈاکٹر اور مریض لطیفے پنجابی)",
+"image": "https://example.com/doctor-patient-jokes.jpg"
+},
+{
+"name": "Teacher-Student Jokes (استاد اور شاگرد لطیفے پنجابی)",
+"image": "https://example.com/teacher-student-jokes.jpg"
+},
+{
+"name": "Family Jokes (خاندانی لطیفے پنجابی)",
+"image": "https://example.com/family-jokes.jpg"
+},
+{
+"name": "Political Jokes (سیاسی لطیفے پنجابی)",
+"image": "https://example.com/political-jokes.jpg"
+},
+{
+"name": "Kids Jokes (بچوں کے لطیفے پنجابی)",
+"image": "https://example.com/kids-jokes.jpg"
+}
+]
+}
