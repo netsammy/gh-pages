@@ -1,11 +1,32 @@
-{
+
 "joke_categories": [
-"Mazahiya Lateefay (مزاحیہ لطیفے)",
-"Sardar Jokes (سردار لطیفے)",
-"Doctor-Patient Jokes (ڈاکٹر اور مریض لطیفے)",
-"Teacher-Student Jokes (استاد اور شاگرد لطیفے)",
-"Family Jokes (خاندانی لطیفے)",
-"Political Jokes (سیاسی لطیفے)",
-"Kids Jokes (بچوں کے لطیفے)"
+{
+"name": "Mazahiya Lateefay (مزاحیہ لطیفے)",
+"image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg"
+},
+{
+"name": "Sardar Jokes (سردار لطیفے)",
+"image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
+},
+{
+"name": "Doctor-Patient Jokes (ڈاکٹر اور مریض لطیفے)",
+"image": "https://example.com/doctor-patient-jokes.jpg"
+},
+{
+"name": "Teacher-Student Jokes (استاد اور شاگرد لطیفے)",
+"image": "https://example.com/teacher-student-jokes.jpg"
+},
+{
+"name": "Family Jokes (خاندانی لطیفے)",
+"image": "https://example.com/family-jokes.jpg"
+},
+{
+"name": "Political Jokes (سیاسی لطیفے)",
+"image": "https://example.com/political-jokes.jpg"
+},
+{
+"name": "Kids Jokes (بچوں کے لطیفے)",
+"image": "https://example.com/kids-jokes.jpg"
+}
 ]
 }
