@@ -1,9 +1,271 @@
 {
-"jokes": [
-{"joke": "What do you call a dog magician? A Labracadabrador!"},
-{"joke": "Why did the crab never share? Because he’s shellfish."},
-{"joke": "What do you call a bear with no teeth? A gummy bear."},
-{"joke": "Why don’t elephants use computers? They’re afraid of the mouse."},
-{"joke": "What do you get when you cross a fish and an elephant? Swimming trunks."}
-]
+  "jokes": [
+    {
+      "joke": "A penguin's favorite relative is the ice-olated cousin."
+    },
+    {
+      "joke": "Caterpillars always read books with a good spine."
+    },
+    {
+      "joke": "Kangaroos excel at boxing thanks to their punchlines."
+    },
+    {
+      "joke": "Owls throw amazing parties\u2014they\u2019re a hoot!"
+    },
+    {
+      "joke": "Turtles prefer slow jams over shell-shocking beats."
+    },
+    {
+      "joke": "Bats love jokes that fly over everyone\u2019s heads."
+    },
+    {
+      "joke": "A skunk\u2019s favorite perfume is Eau de Pew."
+    },
+    {
+      "joke": "Sloths never rush; they\u2019re chill to the core."
+    },
+    {
+      "joke": "Cows make great DJs; they know how to milk a beat."
+    },
+    {
+      "joke": "Parrots always repeat great advice\u2014it\u2019s for the squawk record."
+    },
+    {
+      "joke": "A zebra\u2019s favorite board game is stripes and ladders."
+    },
+    {
+      "joke": "Octopuses have tentacles for multitasking humor."
+    },
+    {
+      "joke": "Flamingos stand on one leg because the other is for fancy dancing."
+    },
+    {
+      "joke": "Bees love compliments; it\u2019s all about the buzz."
+    },
+    {
+      "joke": "Snails avoid escalators\u2014they don\u2019t need the speed."
+    },
+    {
+      "joke": "Peacocks strut their stuff with no need for applause."
+    },
+    {
+      "joke": "Goats can handle anything\u2014they\u2019re the G.O.A.T."
+    },
+    {
+      "joke": "Rabbits excel at math; they multiply like pros."
+    },
+    {
+      "joke": "Hedgehogs make great comedians; they deliver the point."
+    },
+    {
+      "joke": "Camels survive the desert with their hump-lifting humor."
+    },
+    {
+      "joke": "Ducks stay calm in storms; they let it roll off their backs."
+    },
+    {
+      "joke": "Elephants keep their friends close with trunk calls."
+    },
+    {
+      "joke": "Frogs leap into conversations with riveting remarks."
+    },
+    {
+      "joke": "Giraffes have tall tales that reach new heights."
+    },
+    {
+      "joke": "Monkeys swing into action with banana-themed jokes."
+    },
+    {
+      "joke": "Lions deliver roaring good laughs in the jungle."
+    },
+    {
+      "joke": "Hippos are always hip to the latest trends."
+    },
+    {
+      "joke": "Foxes stay sharp with clever comebacks."
+    },
+    {
+      "joke": "Whales sing tunes that make waves."
+    },
+    {
+      "joke": "Sharks prefer their jokes with a biting edge."
+    },
+    {
+      "joke": "Seahorses keep their humor briny but heartfelt."
+    },
+    {
+      "joke": "Ants love teamwork jokes that stick together."
+    },
+    {
+      "joke": "Penguins waddle into punchlines with perfect timing."
+    },
+    {
+      "joke": "Deer stay grounded with earthy humor."
+    },
+    {
+      "joke": "Crows stay smart by cracking corvid puzzles."
+    },
+    {
+      "joke": "Wolves howl with laughter during full-moon parties."
+    },
+    {
+      "joke": "Otters always make waves in comedy circles."
+    },
+    {
+      "joke": "Raccoons love trash talk but keep it lighthearted."
+    },
+    {
+      "joke": "Dolphins find puns simply fin-tastic."
+    },
+    {
+      "joke": "Pandas keep it black and white with straightforward humor."
+    },
+    {
+      "joke": "Moose tell tall tales that make everyone antler up."
+    },
+    {
+      "joke": "Llamas spit out jokes that stick with you."
+    },
+    {
+      "joke": "Horses stay stable with their wit."
+    },
+    {
+      "joke": "Geese honk out their punchlines."
+    },
+    {
+      "joke": "Coyotes always have a wild laugh ready."
+    },
+    {
+      "joke": "Owls never miss a hoot-worthy joke."
+    },
+    {
+      "joke": "Squirrels go nuts over acorny jokes."
+    },
+    {
+      "joke": "Tigers keep their humor fierce and striped."
+    },
+    {
+      "joke": "Porcupines have prickly punchlines but soft delivery."
+    },
+    {
+      "joke": "Cheetahs race to the punchline without cheating."
+    },
+    {
+      "joke": "Snakes slither in with hiss-terical humor."
+    },
+    {
+      "joke": "Flies keep buzzing with short and snappy jokes."
+    },
+    {
+      "joke": "Donkeys love braying out their jokes."
+    },
+    {
+      "joke": "Butterflies keep it light and fluttery in comedy."
+    },
+    {
+      "joke": "Koalas stay calm with eucalyptus-infused humor."
+    },
+    {
+      "joke": "Crickets chirp in delight at subtle puns."
+    },
+    {
+      "joke": "Turkeys gobble up the best jokes at Thanksgiving."
+    },
+    {
+      "joke": "Ravens caw with delight at dark humor."
+    },
+    {
+      "joke": "Eagles soar high with their sky-themed jokes."
+    },
+    {
+      "joke": "Bears stay grizzly but funny in the wild."
+    },
+    {
+      "joke": "Wombats keep it grounded with dry humor."
+    },
+    {
+      "joke": "Pelicans dive deep into water puns."
+    },
+    {
+      "joke": "Armadillos roll into punchlines with protective humor."
+    },
+    {
+      "joke": "Seals clap for every joke, no matter the quality."
+    },
+    {
+      "joke": "Storks deliver their jokes with impeccable timing."
+    },
+    {
+      "joke": "Beavers work hard for their dam good jokes."
+    },
+    {
+      "joke": "Mice squeak out tiny but effective puns."
+    },
+    {
+      "joke": "Lobsters keep it snappy with their claws."
+    },
+    {
+      "joke": "Flounders excel at flat jokes."
+    },
+    {
+      "joke": "Chickens cross the road to punch up their material."
+    },
+    {
+      "joke": "Jellyfish have tentacle-tingling humor."
+    },
+    {
+      "joke": "Alpacas always pack a joke for every occasion."
+    },
+    {
+      "joke": "Hamsters run circles around cheesy puns."
+    },
+    {
+      "joke": "Zebras laugh in black-and-white stripes."
+    },
+    {
+      "joke": "Eels electrify the crowd with their wit."
+    },
+    {
+      "joke": "Walruses seal the deal with blubbery jokes."
+    },
+    {
+      "joke": "Crabs sidestep serious jokes for silliness."
+    },
+    {
+      "joke": "Chameleons blend into every comedic setting."
+    },
+    {
+      "joke": "Fleas jump to conclusions in their punchlines."
+    },
+    {
+      "joke": "Goats keep their comedy sturdy and horned."
+    },
+    {
+      "joke": "Badgers dig deep for their best jokes."
+    },
+    {
+      "joke": "Platypuses baffle everyone with their unique humor."
+    },
+    {
+      "joke": "Rats squeak by with cheesy punchlines."
+    },
+    {
+      "joke": "Slugs slide into humor slowly but surely."
+    },
+    {
+      "joke": "Owls are real night owls in comedy clubs."
+    },
+    {
+      "joke": "Caterpillars inch toward the perfect joke."
+    },
+    {
+      "joke": "Gulls stay light with ocean-breeze humor."
+    },
+    {
+      "joke": "Toads hop between puns and ribbits."
+    },
+    {
+      "joke": "Peacocks preen their punchlines to perfection."
+    }
+  ]
 }
