@@ -1,78 +1,65 @@
 {
-  "jokes": [
-
-    {"joke": "The Talking Dog:
-A man sees a sign in front of a house: "Talking Dog for Sale." Intrigued, he knocks on the door. The owner invites him in and points to the dog in the corner.
-"So, what can you do?" the man asks the dog.
-"I can talk," the dog replies.
-The man is shocked. "Wow! Tell me your story."
-The dog sighs. "I discovered I could talk as a puppy. I worked with the CIA, traveling the world, eavesdropping on bad guys. But I got tired of the high-stakes life, so I retired to a quiet life here."
-The man turns to the owner, amazed. "How much do you want for this dog?"
-The owner shrugs. "Ten dollars."
-"Ten dollars?! Why so cheap?"
-The owner shakes his head. "Because he's a liar! He didn’t do any of that!""},
-    {"joke": "The Genie and the Three Wishes:
-A man finds a genie’s lamp. He rubs it, and the genie appears.
-"I’ll grant you three wishes," the genie says, "but whatever you wish for, your worst enemy will get double!"
-The man thinks hard. "I want a million dollars."
-The genie snaps his fingers. "Done. But your enemy now has two million dollars."
-"Okay," the man says. "I want a mansion."
-The genie nods. "Granted. But your enemy now has two mansions."
-The man scowls. "Fine. For my last wish, I want you to scare me half to death!""},
-    {"joke": "The Lawyer and the Shark:
-A lawyer was on a boat when he fell overboard into shark-infested waters. The other passengers watched in horror as the sharks approached—but then turned around and swam away.
-"That’s incredible!" someone shouted. "Why didn’t they attack?"
-Another passenger shrugged. "Professional courtesy.""},
-    {"joke": "The Psychic’s Prediction:
-A man goes to a psychic to ask about his future.
-The psychic closes her eyes and says, "I see your future. You will be poor and unhappy until you’re 45."
-"Then what happens?" the man asks excitedly.
-"Then," the psychic says, "you’ll get used to it.""},
-    {"joke": "A man walks into a bar, and it's empty - it's just him and the bartender. He sits down and orders a drink.
-
-He hears someone whisper, "Pssst...I like your tie."
-The man looks around but doesn't see anyone.
-
-"Pssst...that color looks nice on you."
-
-He asks the bartender, "Excuse me, but...are you speaking to me?"
-The bartender rolls his eyes and says, "No, sorry about that. It's the peanuts... they're complimentary." "},
-    {"joke": "A man walks into a bar and says, "Give me a beer before the problems start!" He drinks the beer and then orders another saying, "Give me a beer before the problems start!"
-
-The bartender looks confused. This goes on for a while, and after the fifth beer the bartender is totally confused and asks the man, "When are you going to pay for these beers?"
-
-The man answers, "Now the problems start!""},
-    {"joke": "Once there was a man who went to an exotic country and came across a stall selling handmade handheld fans. He asked for the prettiest and longest-lasting one and the owner charged him a whopping $1,000! After using it the first time, it broke so he took it back for a refund.
-
-The owner listened to the complaints and finally asked him how he used the fan. The man demonstrated flapping the fan as one would normally do.
-
-Then the owner said, "Ah! No wonder! You have been using the fan wrong. This is the way to use it."
-Then, he held the fan and frantically moved his head left and right."},
-   
-    {"joke": "The Parrot's Lesson: A man buys a parrot known for insulting everyone it meets. Determined to teach the bird manners, the man puts it in the freezer for a few minutes whenever it’s rude.
-One day, after another rude remark, the man tosses the parrot in the freezer. After five minutes, he takes the parrot out.
-The parrot, shivering, says, "I’m so sorry for being rude. I’ve learned my lesson."
-The man is surprised. "That’s great! What changed your mind?"
-The parrot looks nervously at the freezer. "I just have one question... What did the chicken do?""},
-    {"joke": "The Linguist's Lesson: 
-An MIT linguistics professor lectures about negatives: "In English, a double negative forms a positive, but in some languages, like Russian, a double negative remains negative. However, no language has a double positive that forms a negative."
-From the back of the class, a student replies, "Yeah, right!""},
-    {"joke": "The Pope and the Rabbi: 
-Long ago, the Pope decreed all Jews in the Vatican must convert or leave. A wise rabbi challenged the Pope to a silent debate. They faced off: the Pope raised three fingers; the rabbi raised one. The Pope spun his finger; the rabbi pointed to the ground. The Pope took out bread and wine; the rabbi took out an apple.
-The Pope admitted defeat, saying the rabbi's symbolic responses were too wise. Meanwhile, the rabbi explained to his followers: "He showed three fingers for the Trinity; I showed one for one God. He spun his hand to show God rules the heavens; I pointed down to show God is also here. He showed bread and wine; I showed the apple from Eden!"​
-"},
-    {"joke": "The Talking Dog: 
-A woman finds a dog in a pet store and is told it can talk. Excited, she asks the dog its story. The dog replies, "I discovered my talent as a pup and worked for the CIA as a spy. After retirement, I traveled the world, helping uncover secrets."
-The amazed woman asks the shopkeeper why the dog is so cheap. The shopkeeper sighs, "He's lying. He’s never left the yard!""},
-    {"joke": "Rupert the Dog
-A woman buys Rupert, the ultimate guard dog. The shopkeeper assures her he’s protective, despite his small size. She’s doubtful, but one night, burglars break in. Rupert doesn’t attack—he convinces the burglars to confess, sit down, and wait for the police. The woman decides he’s the best investment ever!"},
-    {"joke": "What do you call a pig that does karate? A pork chop."},
-    {"joke": "Why do ducks have feathers? To cover their butt-quacks."},
-    {"joke": "What do you call an elephant that doesn’t matter? An irrelephant."},
-    {"joke": "Why did the lion eat the tightrope walker? He wanted a well-balanced meal."},
-    {"joke": "What do you get when you cross a dog with a calculator? A friend you can count on."},
-    {"joke": "Why don’t ants get sick? They have tiny ant-bodies."},
-    {"joke": "What do you call a sleeping bull? A bulldozer."},
-    {"joke": "Why are fish so smart? They live in schools."}
-  ]
+"jokes": [
+{
+"joke": "The Talking Dog:\nA man sees a sign in front of a house: \"Talking Dog for Sale.\" Intrigued, he knocks on the door. The owner invites him in and points to the dog in the corner.\n\"So, what can you do?\" the man asks the dog.\n\"I can talk,\" the dog replies.\nThe man is shocked. \"Wow! Tell me your story.\"\nThe dog sighs. \"I discovered I could talk as a puppy. I worked with the CIA, traveling the world, eavesdropping on bad guys. But I got tired of the high-stakes life, so I retired to a quiet life here.\"\nThe man turns to the owner, amazed. \"How much do you want for this dog?\"\nThe owner shrugs. \"Ten dollars.\"\n\"Ten dollars?! Why so cheap?\"\nThe owner shakes his head. \"Because he's a liar! He didn’t do any of that!\""
+},
+{
+"joke": "The Genie and the Three Wishes:\nA man finds a genie’s lamp. He rubs it, and the genie appears.\n\"I’ll grant you three wishes,\" the genie says, \"but whatever you wish for, your worst enemy will get double!\"\nThe man thinks hard. \"I want a million dollars.\"\nThe genie snaps his fingers. \"Done. But your enemy now has two million dollars.\"\n\"Okay,\" the man says. \"I want a mansion.\"\nThe genie nods. \"Granted. But your enemy now has two mansions.\"\nThe man scowls. \"Fine. For my last wish, I want you to scare me half to death!\""
+},
+{
+"joke": "The Lawyer and the Shark:\nA lawyer was on a boat when he fell overboard into shark-infested waters. The other passengers watched in horror as the sharks approached—but then turned around and swam away.\n\"That’s incredible!\" someone shouted. \"Why didn’t they attack?\"\nAnother passenger shrugged. \"Professional courtesy.\""
+},
+{
+"joke": "The Psychic’s Prediction:\nA man goes to a psychic to ask about his future.\nThe psychic closes her eyes and says, \"I see your future. You will be poor and unhappy until you’re 45.\"\n\"Then what happens?\" the man asks excitedly.\n\"Then,\" the psychic says, \"you’ll get used to it.\""
+},
+{
+"joke": "A man walks into a bar, and it's empty - it's just him and the bartender. He sits down and orders a drink.\nHe hears someone whisper, \"Pssst...I like your tie.\"\nThe man looks around but doesn’t see anyone.\n\"Pssst...that color looks nice on you.\"\nHe asks the bartender, \"Excuse me, but...are you speaking to me?\"\nThe bartender rolls his eyes and says, \"No, sorry about that. It's the peanuts... they’re complimentary.\""
+},
+{
+"joke": "A man walks into a bar and says, \"Give me a beer before the problems start!\" He drinks the beer and then orders another saying, \"Give me a beer before the problems start!\"\nThe bartender looks confused. This goes on for a while, and after the fifth beer the bartender is totally confused and asks the man, \"When are you going to pay for these beers?\"\nThe man answers, \"Now the problems start!\""
+},
+{
+"joke": "Once there was a man who went to an exotic country and came across a stall selling handmade handheld fans. He asked for the prettiest and longest-lasting one and the owner charged him a whopping $1,000! After using it the first time, it broke so he took it back for a refund.\nThe owner listened to the complaints and finally asked him how he used the fan. The man demonstrated flapping the fan as one would normally do.\nThen the owner said, \"Ah! No wonder! You have been using the fan wrong. This is the way to use it.\"\nThen, he held the fan and frantically moved his head left and right."
+},
+{
+"joke": "The Parrot's Lesson: A man buys a parrot known for insulting everyone it meets. Determined to teach the bird manners, the man puts it in the freezer for a few minutes whenever it’s rude.\nOne day, after another rude remark, the man tosses the parrot in the freezer. After five minutes, he takes the parrot out.\nThe parrot, shivering, says, \"I’m so sorry for being rude. I’ve learned my lesson.\"\nThe man is surprised. \"That’s great! What changed your mind?\"\nThe parrot looks nervously at the freezer. \"I just have one question... What did the chicken do?\""
+},
+{
+"joke": "The Linguist's Lesson:\nAn MIT linguistics professor lectures about negatives: \"In English, a double negative forms a positive, but in some languages, like Russian, a double negative remains negative. However, no language has a double positive that forms a negative.\"\nFrom the back of the class, a student replies, \"Yeah, right!\""
+},
+{
+"joke": "The Pope and the Rabbi:\nLong ago, the Pope decreed all Jews in the Vatican must convert or leave. A wise rabbi challenged the Pope to a silent debate. They faced off: the Pope raised three fingers; the rabbi raised one. The Pope spun his finger; the rabbi pointed to the ground. The Pope took out bread and wine; the rabbi took out an apple.\nThe Pope admitted defeat, saying the rabbi's symbolic responses were too wise. Meanwhile, the rabbi explained to his followers: \"He showed three fingers for the Trinity; I showed one for one God. He spun his hand to show God rules the heavens; I pointed down to show God is also here. He showed bread and wine; I showed the apple from Eden!\""
+},
+{
+"joke": "The Talking Dog:\nA woman finds a dog in a pet store and is told it can talk. Excited, she asks the dog its story. The dog replies, \"I discovered my talent as a pup and worked for the CIA as a spy. After retirement, I traveled the world, helping uncover secrets.\"\nThe amazed woman asks the shopkeeper why the dog is so cheap. The shopkeeper sighs, \"He's lying. He’s never left the yard!\""
+},
+{
+"joke": "Rupert the Dog:\nA woman buys Rupert, the ultimate guard dog. The shopkeeper assures her he’s protective, despite his small size. She’s doubtful, but one night, burglars break in. Rupert doesn’t attack—he convinces the burglars to confess, sit down, and wait for the police. The woman decides he’s the best investment ever!"
+},
+{
+"joke": "What do you call a pig that does karate? A pork chop."
+},
+{
+"joke": "Why do ducks have feathers? To cover their butt-quacks."
+},
+{
+"joke": "What do you call an elephant that doesn’t matter? An irrelephant."
+},
+{
+"joke": "Why did the lion eat the tightrope walker? He wanted a well-balanced meal."
+},
+{
+"joke": "What do you get when you cross a dog with a calculator? A friend you can count on."
+},
+{
+"joke": "Why don’t ants get sick? They have tiny ant-bodies."
+},
+{
+"joke": "What do you call a sleeping bull? A bulldozer."
+},
+{
+"joke": "Why are fish so smart? They live in schools."
 }
+]
+}
+
