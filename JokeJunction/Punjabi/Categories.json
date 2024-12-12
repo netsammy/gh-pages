@@ -2,45 +2,36 @@
   "joke_categories": [
     {
       "name": "Mazahiya Lateefay",
-      "image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Comedy.jpg",
       "Premium": false,
       "title": "Funny Punjabi Jokes (مزاحیہ لطیفے پنجابی)"
     },
     {
       "name": "Sardar Jokes",
-      "image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Sardar.jpg",
       "Premium": true,
       "title": "Sardar Jokes in Punjabi (سردار لطیفے پنجابی)"
     },
     {
       "name": "Doctor-Patient Jokes",
-      "image": "https://example.com/doctor-patient-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/DoctorPatient.jpg",
       "Premium": false,
       "title": "Doctor-Patient Jokes in Punjabi (ڈاکٹر اور مریض لطیفے پنجابی)"
     },
     {
       "name": "Teacher-Student Jokes",
-      "image": "https://example.com/teacher-student-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/TeacherStudent.jpg",
       "Premium": false,
       "title": "Teacher-Student Jokes in Punjabi (استاد اور شاگرد لطیفے پنجابی)"
     },
     {
       "name": "Family Jokes",
-      "image": "https://example.com/family-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Family.jpg",
       "Premium": false,
       "title": "Family Jokes in Punjabi (خاندانی لطیفے پنجابی)"
     },
     {
       "name": "Political Jokes",
-      "image": "https://example.com/political-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Political.jpg",
       "Premium": false,
       "title": "Political Jokes in Punjabi (سیاسی لطیفے پنجابی)"
-    },
-    {
-      "name": "Kids Jokes",
-      "image": "https://example.com/kids-jokes.jpg",
-      "Premium": false,
-      "title": "Kids Jokes in Punjabi (بچوں کے لطیفے پنجابی)"
-    }
-  ]
-}
