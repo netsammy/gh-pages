@@ -1,46 +1,46 @@
 {
-"joke_categories": [
-{
-"name": "Mazahiya Lateefay",
-"image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
-"Premium": false,
-"title": "Funny Jokes (مزاحیہ لطیفے)"
-},
-{
-"name": "Sardar Jokes",
-"image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg",
-"Premium": true,
-"title": "Sardar Jokes (سردار لطیفے)"
-},
-{
-"name": "Doctor-Patient Jokes",
-"image": "https://example.com/doctor-patient-jokes.jpg",
-"Premium": false,
-"title": "Doctor-Patient Jokes (ڈاکٹر اور مریض لطیفے)"
-},
-{
-"name": "Teacher-Student Jokes",
-"image": "https://example.com/teacher-student-jokes.jpg",
-"Premium": false,
-"title": "Teacher-Student Jokes (استاد اور شاگرد لطیفے)"
-},
-{
-"name": "Family Jokes",
-"image": "https://example.com/family-jokes.jpg",
-"Premium": false,
-"title": "Family Jokes (خاندانی لطیفے)"
-},
-{
-"name": "Political Jokes",
-"image": "https://example.com/political-jokes.jpg",
-"Premium": false,
-"title": "Political Jokes (سیاسی لطیفے)"
-},
-{
-"name": "Kids Jokes",
-"image": "https://example.com/kids-jokes.jpg",
-"Premium": false,
-"title": "Kids Jokes (بچوں کے لطیفے)"
-}
-]
+  "joke_categories": [
+    {
+      "name": "Mazahiya Lateefay",
+      "image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
+      "Premium": false,
+      "title": "Funny Jokes (مزاحیہ لطیفے)"
+    },
+    {
+      "name": "Sardar Jokes",
+      "image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg",
+      "Premium": true,
+      "title": "Sardar Jokes (سردار لطیفے)"
+    },
+    {
+      "name": "Doctor-Patient Jokes",
+      "image": "https://example.com/doctor-patient-jokes.jpg",
+      "Premium": false,
+      "title": "Doctor-Patient Jokes (ڈاکٹر اور مریض لطیفے)"
+    },
+    {
+      "name": "Teacher-Student Jokes",
+      "image": "https://example.com/teacher-student-jokes.jpg",
+      "Premium": false,
+      "title": "Teacher-Student Jokes (استاد اور شاگرد لطیفے)"
+    },
+    {
+      "name": "Family Jokes",
+      "image": "https://example.com/family-jokes.jpg",
+      "Premium": false,
+      "title": "Family Jokes (خاندانی لطیفے)"
+    },
+    {
+      "name": "Political Jokes",
+      "image": "https://example.com/political-jokes.jpg",
+      "Premium": false,
+      "title": "Political Jokes (سیاسی لطیفے)"
+    },
+    {
+      "name": "Kids Jokes",
+      "image": "https://example.com/kids-jokes.jpg",
+      "Premium": false,
+      "title": "Kids Jokes (بچوں کے لطیفے)"
+    }
+  ]
 }

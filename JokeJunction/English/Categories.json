@@ -1,64 +1,64 @@
 {
-"joke_categories": [
-{
-"name": "Animal Jokes",
-"image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
-"Premium": false,
-"title": "Funny Animal Jokes"
-},
-{
-"name": "Knock-Knock Jokes",
-"image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg",
-"Premium": false,
-"title": "Classic Knock-Knock Jokes"
-},
-{
-"name": "Puns",
-"image": "https://example.com/puns.jpg",
-"Premium": false,
-"title": "Hilarious Puns"
-},
-{
-"name": "Blonde Jokes",
-"image": "https://example.com/blonde-jokes.jpg",
-"Premium": true,
-"title": "Blonde Jokes"
-},
-{
-"name": "Clean Jokes",
-"image": "https://example.com/clean-jokes.jpg",
-"Premium": false,
-"title": "Clean and Funny Jokes"
-},
-{
-"name": "Chuck Norris Jokes",
-"image": "https://example.com/chuck-norris-jokes.jpg",
-"Premium": false,
-"title": "Chuck Norris Jokes"
-},
-{
-"name": "Dad Jokes",
-"image": "https://example.com/dad-jokes.jpg",
-"Premium": false,
-"title": "Dad Jokes"
-},
-{
-"name": "Dark Humor",
-"image": "https://example.com/dark-humor.jpg",
-"Premium": true,
-"title": "Dark Humor Jokes"
-},
-{
-"name": "One-Liners",
-"image": "https://example.com/one-liners.jpg",
-"Premium": false,
-"title": "One-Liner Jokes"
-},
-{
-"name": "Observational Jokes",
-"image": "https://example.com/observational-jokes.jpg",
-"Premium": false,
-"title": "Observational Jokes"
-}
-]
+  "joke_categories": [
+    {
+      "name": "Animal Jokes",
+      "image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
+      "Premium": false,
+      "title": "Funny Animal Jokes"
+    },
+    {
+      "name": "Knock-Knock Jokes",
+      "image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg",
+      "Premium": false,
+      "title": "Classic Knock-Knock Jokes"
+    },
+    {
+      "name": "Puns",
+      "image": "https://example.com/puns.jpg",
+      "Premium": false,
+      "title": "Hilarious Puns"
+    },
+    {
+      "name": "Blonde Jokes",
+      "image": "https://example.com/blonde-jokes.jpg",
+      "Premium": true,
+      "title": "Blonde Jokes"
+    },
+    {
+      "name": "Clean Jokes",
+      "image": "https://example.com/clean-jokes.jpg",
+      "Premium": false,
+      "title": "Clean and Funny Jokes"
+    },
+    {
+      "name": "Chuck Norris Jokes",
+      "image": "https://example.com/chuck-norris-jokes.jpg",
+      "Premium": false,
+      "title": "Chuck Norris Jokes"
+    },
+    {
+      "name": "Dad Jokes",
+      "image": "https://example.com/dad-jokes.jpg",
+      "Premium": false,
+      "title": "Dad Jokes"
+    },
+    {
+      "name": "Dark Humor",
+      "image": "https://example.com/dark-humor.jpg",
+      "Premium": true,
+      "title": "Dark Humor Jokes"
+    },
+    {
+      "name": "One-Liners",
+      "image": "https://example.com/one-liners.jpg",
+      "Premium": false,
+      "title": "One-Liner Jokes"
+    },
+    {
+      "name": "Observational Jokes",
+      "image": "https://example.com/observational-jokes.jpg",
+      "Premium": false,
+      "title": "Observational Jokes"
+    }
+  ]
 }
