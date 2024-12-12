@@ -2,61 +2,61 @@
   "joke_categories": [
     {
       "name": "Animal Jokes",
-      "image": "https://img.youtube.com/vi/sUKwTVAc0Vo/mqdefault.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Animal.jpg",
       "Premium": false,
       "title": "Funny Animal Jokes"
     },
     {
       "name": "Knock-Knock Jokes",
-      "image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/KnockKnock.jpg",
       "Premium": false,
       "title": "Classic Knock-Knock Jokes"
     },
     {
       "name": "Puns",
-      "image": "https://example.com/puns.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/",
       "Premium": false,
       "title": "Hilarious Puns"
     },
     {
       "name": "Blonde Jokes",
-      "image": "https://example.com/blonde-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Blonde.jpg",
       "Premium": true,
       "title": "Blonde Jokes"
     },
     {
       "name": "Clean Jokes",
-      "image": "https://example.com/clean-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/CleanFunny.jpg",
       "Premium": false,
       "title": "Clean and Funny Jokes"
     },
     {
       "name": "Chuck Norris Jokes",
-      "image": "https://example.com/chuck-norris-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/ChuckNorris.jpg",
       "Premium": false,
       "title": "Chuck Norris Jokes"
     },
     {
       "name": "Dad Jokes",
-      "image": "https://example.com/dad-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Dad.jpg",
       "Premium": false,
       "title": "Dad Jokes"
     },
     {
       "name": "Dark Humor",
-      "image": "https://example.com/dark-humor.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/DarkHumor.jpg",
       "Premium": true,
       "title": "Dark Humor Jokes"
     },
     {
       "name": "One-Liners",
-      "image": "https://example.com/one-liners.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/OneLiner.jpg",
       "Premium": false,
       "title": "One-Liner Jokes"
     },
     {
       "name": "Observational Jokes",
-      "image": "https://example.com/observational-jokes.jpg",
+      "image": "https://raw.githubusercontent.com/netsammy/gh-pages/main/JokeJunction/images/Observational.jpg",
       "Premium": false,
       "title": "Observational Jokes"
     }
