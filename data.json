@@ -117,50 +117,7 @@
       "Country": "UK",
       "URL": "https://youtu.be/YDvsBbKfLPA",
       "Image": "https://img.youtube.com/vi/YDvsBbKfLPA/mqdefault.jpg"
-    },
-    
-      {
-        "Category": "News",
-        "Name": "KTN News Live",
-        "Country": "PK",
-        "URL": "https://www.youtube.com/watch?v=eqeNJNQsxNY",
-        "Image": "https://img.youtube.com/vi/eqeNJNQsxNY/mqdefault.jpg"
-      },
-      {
-        "Category": "News",
-        "Name": "India Today",
-        "Country": "IN",
-        "URL": "https://www.youtube.com/watch?v=WDwUciZIR-0",
-        "Image": "https://img.youtube.com/vi/WDwUciZIR-0/mqdefault.jpg"
-      },
-      {
-        "Category": "News",
-        "Name": "CNA 24/7 LIVE",
-        "Country": "SG",
-        "URL": "https://www.youtube.com/watch?v=XWq5kBlakcQ",
-        "Image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
-      },
-      {
-        "Category": "News",
-        "Name": "GB News Live",
-        "Country": "UK",
-        "URL": "https://www.youtube.com/watch?v=QliL4CGc7iY",
-        "Image": "https://img.youtube.com/vi/QliL4CGc7iY/mqdefault.jpg"
-      },
-      {
-        "Category": "News",
-        "Name": "92 News",
-        "Country": "PK",
-        "URL": "https://www.youtube.com/watch?v=8uh7YorHaa8",
-        "Image": "https://img.youtube.com/vi/8uh7YorHaa8/mqdefault.jpg"
-      },
-      {
-        "Category": "News",
-        "Name": "United Nations - LIVE",
-        "Country": "INT",
-        "URL": "https://www.youtube.com/watch?v=vYRfQo6JMxc",
-        "Image": "https://img.youtube.com/vi/vYRfQo6JMxc/mqdefault.jpg"
-      }
+    }  
       
 
 
