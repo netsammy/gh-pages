@@ -116,8 +116,7 @@
       "Country": "UK",
       "URL": "https://youtu.be/YDvsBbKfLPA",
       "Image": "https://img.youtube.com/vi/YDvsBbKfLPA/mqdefault.jpg"
-    },
-    [
+    },    
       {
         "Category": "News",
         "Name": "KTN News Live",
@@ -159,10 +158,7 @@
         "Country": "INT",
         "URL": "https://www.youtube.com/watch?v=vYRfQo6JMxc",
         "Image": "https://img.youtube.com/vi/vYRfQo6JMxc/mqdefault.jpg"
-      }
-    ]
-    
-
+      }    
 
 	]
 }
