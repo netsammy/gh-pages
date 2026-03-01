@@ -1,13 +1,13 @@
 {
-	"Menu": [
+  "Menu": [
 
 
     {
       "Category": "News",
       "Name": "ARY News",
       "Country": "PK",
-      "URL": "https://www.youtube.com/watch?v=RqUZ2Fv9l8w&pp=ygUSbGl2ZSBuZXdzIHBha2lzdGFu&mode=theatre",
-      "Image": "https://img.youtube.com/vi/RqUZ2Fv9l8w/mqdefault.jpg"
+      "URL": "https://youtu.be/vYTfRrA0rBw",
+      "Image": "https://img.youtube.com/vi/vYTfRrA0rBw/mqdefault.jpg"
     },
 
 
@@ -23,56 +23,56 @@
       "Category": "News",
       "Name": "Geo News",
       "Country": "PK",
-      "URL": "https://www.youtube.com/watch?v=ifgOMEerYQI&mode=theatre",
-      "Image": "https://img.youtube.com/vi/ifgOMEerYQI/mqdefault.jpg"
+      "URL": "https://youtu.be/_FwympjOSNE",
+      "Image": "https://img.youtube.com/vi/_FwympjOSNE/mqdefault.jpg"
     },
-		{
-			"Category": "News",
-			"Name": "ABC News Live",
-			"Country": "US",
-			"URL": "https://youtu.be/-mvUkiILTqI&mode=theatre",
-			"Image": "https://img.youtube.com/vi/-mvUkiILTqI/mqdefault.jpg"
-		},
+    {
+      "Category": "News",
+      "Name": "ABC News Live",
+      "Country": "US",
+      "URL": "https://youtu.be/-mvUkiILTqI&mode=theatre",
+      "Image": "https://img.youtube.com/vi/-mvUkiILTqI/mqdefault.jpg"
+    },
 
-		{
-			"Category": "News",
-			"Name": "Al Jazeera English",
-			"Country": "US",
-			"URL": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
-			"Image": "https://img.youtube.com/vi/gCNeDWCI0vo/mqdefault.jpg"
-		},
+    {
+      "Category": "News",
+      "Name": "Al Jazeera English",
+      "Country": "US",
+      "URL": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+      "Image": "https://img.youtube.com/vi/gCNeDWCI0vo/mqdefault.jpg"
+    },
 
-				
-			
-		
-		{
-			"Category": "News",
-			"Name": "GB News",
-			"Country": "UK",
-			"URL": "https://www.youtube.com/watch?v=8WX6YL9JnLw",
-			"Image": "https://img.youtube.com/vi/8WX6YL9JnLw/mqdefault.jpg"
-		},
-				
-		{
-			"Category": "News",
-			"Name": "CNA 24/7 LIVE",
-			"Country": "CN",
-			"URL": "https://www.youtube.com/watch?v=XWq5kBlakcQ",
-			"Image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
-		},
+
+
+
+    {
+      "Category": "News",
+      "Name": "GB News",
+      "Country": "UK",
+      "URL": "https://www.youtube.com/watch?v=8WX6YL9JnLw",
+      "Image": "https://img.youtube.com/vi/8WX6YL9JnLw/mqdefault.jpg"
+    },
+
+    {
+      "Category": "News",
+      "Name": "CNA 24/7 LIVE",
+      "Country": "CN",
+      "URL": "https://www.youtube.com/watch?v=XWq5kBlakcQ",
+      "Image": "https://img.youtube.com/vi/XWq5kBlakcQ/mqdefault.jpg"
+    },
     {
       "Category": "News",
       "Name": "SAMAA News Live",
       "Country": "Unknown",
-      "URL": "https://youtu.be/zy7R1waSVZ0",
-      "Image": "https://img.youtube.com/vi/zy7R1waSVZ0/mqdefault.jpg"
-    },    
+      "URL": "https://youtu.be/Nh_qJClxWec",
+      "Image": "https://img.youtube.com/vi/Nh_qJClxWec/mqdefault.jpg"
+    },
     {
       "Category": "News",
       "Name": "Bol News Live",
       "Country": "PK",
-      "URL": "https://youtu.be/U60zQv23NjY",
-      "Image": "https://img.youtube.com/vi/U60zQv23NjY/mqdefault.jpg"
+      "URL": "https://youtu.be/4_HJbqz3KlU",
+      "Image": "https://img.youtube.com/vi/4_HJbqz3KlU/mqdefault.jpg"
     },
     {
       "Category": "News",
@@ -117,9 +117,17 @@
       "Country": "UK",
       "URL": "https://youtu.be/YDvsBbKfLPA",
       "Image": "https://img.youtube.com/vi/YDvsBbKfLPA/mqdefault.jpg"
-    }  
-      
+    },
+    {
+      "Category": "News",
+      "Name": "CNN News",
+      "Country": "US",
+      "URL": "https://youtu.be/9hTxn5kOrEA",
+      "Image": "https://img.youtube.com/vi/9hTxn5kOrEA/mqdefault.jpg"
+    }
 
 
-	]
+
+
+  ]
 }
