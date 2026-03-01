@@ -124,8 +124,21 @@
       "Country": "US",
       "URL": "https://youtu.be/9hTxn5kOrEA",
       "Image": "https://img.youtube.com/vi/9hTxn5kOrEA/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "ABP News",
+      "Country": "IN",
+      "URL": "https://youtu.be/vMGDk0hDrGg",
+      "Image": "https://img.youtube.com/vi/vMGDk0hDrGg/mqdefault.jpg"
+    },
+    {
+      "Category": "News",
+      "Name": "24 One News",
+      "Country": "PK",
+      "URL": "https://youtu.be/vZO0t7DtGBY",
+      "Image": "https://img.youtube.com/vi/vZO0t7DtGBY/mqdefault.jpg"
     }
-
 
 
 
