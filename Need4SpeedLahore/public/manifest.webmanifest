@@ -1,0 +1,27 @@
+{
+  "name": "Need 4 Speed Lahore",
+  "short_name": "N4S Lahore",
+  "description": "An arcade chase racer set on Lahore roads with staged progression, traffic, police pressure, and evolving vehicle classes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "lang": "en-US",
+  "categories": ["games", "entertainment", "racing"],
+  "icons": [
+    {
+      "src": "/icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/app-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
