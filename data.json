@@ -6,8 +6,8 @@
       "Category": "News",
       "Name": "ARY News",
       "Country": "PK",
-      "URL": "https://youtu.be/vYTfRrA0rBw",
-      "Image": "https://img.youtube.com/vi/vYTfRrA0rBw/mqdefault.jpg"
+      "URL": https://youtu.be/nt8uLpujp08",
+      "Image": "https://img.youtube.com/vi/nt8uLpujp08/mqdefault.jpg"
     },
 
 
@@ -15,17 +15,11 @@
       "Category": "News",
       "Name": "Dunya News",
       "Country": "PK",
-      "URL": "https://www.youtube.com/watch?v=GlHSFtTFfJE",
-      "Image": "https://img.youtube.com/vi/GlHSFtTFfJE/mqdefault.jpg"
+      "URL": "https://youtu.be/e2XVSUYh4S0",
+      "Image": "https://img.youtube.com/vi/e2XVSUYh4S0/mqdefault.jpg"
     },
 
-    {
-      "Category": "News",
-      "Name": "Geo News",
-      "Country": "PK",
-      "URL": "https://youtu.be/_FwympjOSNE",
-      "Image": "https://img.youtube.com/vi/_FwympjOSNE/mqdefault.jpg"
-    },
+   
     {
       "Category": "News",
       "Name": "ABC News Live",
@@ -42,16 +36,7 @@
       "Image": "https://img.youtube.com/vi/gCNeDWCI0vo/mqdefault.jpg"
     },
 
-
-
-
-    {
-      "Category": "News",
-      "Name": "GB News",
-      "Country": "UK",
-      "URL": "https://www.youtube.com/watch?v=8WX6YL9JnLw",
-      "Image": "https://img.youtube.com/vi/8WX6YL9JnLw/mqdefault.jpg"
-    },
+  
 
     {
       "Category": "News",
@@ -71,15 +56,15 @@
       "Category": "News",
       "Name": "Bol News Live",
       "Country": "PK",
-      "URL": "https://youtu.be/4_HJbqz3KlU",
-      "Image": "https://img.youtube.com/vi/4_HJbqz3KlU/mqdefault.jpg"
+      "URL": "https://youtu.be/M8DGZa5xX5A",
+      "Image": "https://img.youtube.com/vi/M8DGZa5xX5A/mqdefault.jpg"
     },
     {
       "Category": "News",
       "Name": "Aaj News Live",
       "Country": "PK",
-      "URL": "https://youtu.be/CAz6J3B1NvM",
-      "Image": "https://img.youtube.com/vi/CAz6J3B1NvM/mqdefault.jpg"
+      "URL": "https://youtu.be/YRQjxkJulis",
+      "Image": "https://img.youtube.com/vi/YRQjxkJulis/mqdefault.jpg"
     },
     {
       "Category": "News",
@@ -89,14 +74,6 @@
       "Image": "https://img.youtube.com/vi/a_bvmBLCrcQ/mqdefault.jpg"
     },
 
-
-    {
-      "Category": "News",
-      "Name": "GNN News Live",
-      "Country": "PK",
-      "URL": "https://youtu.be/8mhPYTm3kEs",
-      "Image": "https://img.youtube.com/vi/8mhPYTm3kEs/mqdefault.jpg"
-    },
     {
       "Category": "News",
       "Name": "WION News Live",
@@ -104,13 +81,7 @@
       "URL": "https://www.youtube.com/watch?v=vfszY1JYbMc",
       "Image": "https://img.youtube.com/vi/vfszY1JYbMc/mqdefault.jpg"
     },
-    {
-      "Category": "News",
-      "Name": "LiveNOW Fox Live",
-      "Country": "US",
-      "URL": "https://www.youtube.com/watch?v=baNySiBUP0Y",
-      "Image": "https://img.youtube.com/vi/baNySiBUP0Y/mqdefault.jpg"
-    },
+    
     {
       "Category": "News",
       "Name": "Sky News Live",
@@ -118,33 +89,21 @@
       "URL": "https://youtu.be/YDvsBbKfLPA",
       "Image": "https://img.youtube.com/vi/YDvsBbKfLPA/mqdefault.jpg"
     },
-    {
-      "Category": "News",
-      "Name": "CNN News",
-      "Country": "US",
-      "URL": "https://youtu.be/9hTxn5kOrEA",
-      "Image": "https://img.youtube.com/vi/9hTxn5kOrEA/mqdefault.jpg"
-    },
-    {
-      "Category": "News",
-      "Name": "ABP News",
-      "Country": "IN",
-      "URL": "https://youtu.be/vMGDk0hDrGg",
-      "Image": "https://img.youtube.com/vi/vMGDk0hDrGg/mqdefault.jpg"
-    },
+   
+   
     {
       "Category": "News",
       "Name": "24 One News",
       "Country": "PK",
-      "URL": "https://youtu.be/vZO0t7DtGBY",
-      "Image": "https://img.youtube.com/vi/vZO0t7DtGBY/mqdefault.jpg"
+      "URL": "https://youtu.be/j7IANbo8DX4",
+      "Image": "https://img.youtube.com/vi/j7IANbo8DX4/mqdefault.jpg"
     },
     {
       "Category": "News",
-      "Name": "France 24 News",
-      "Country": "PK",
-      "URL": "https://youtu.be/Ap-UM1O9RBU",
-      "Image": "https://img.youtube.com/vi/Ap-UM1O9RBU/mqdefault.jpg"
+      "Name": "CNN News",
+      "Country": "US",
+      "URL": "https://youtu.be/GotlA1KKWoo",
+      "Image": "https://img.youtube.com/vi/Ap-GotlA1KKWoo/mqdefault.jpg"
     }
 
 
